@@ -4,6 +4,8 @@
 // Input: s = "III"
 // Output: 3
 // Explanation: III = 3.
+
+// Status=easy
 var romanToInt = function (s) {
     const symbols = {
         'I': 1,
